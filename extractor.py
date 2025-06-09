@@ -2,11 +2,12 @@ import os
 from openai import OpenAI
 
 from models import ExtractedSkills
-
+import dotenv
+dotenv.load_dotenv()
 
 class SkillExtractor:
     def __init__(self, api_key: str = None):
-        self.client = OpenAI(api_key=_)
+        self.client = OpenAI(api_key=os.getenv("OPENAI_API_KEY") if api_key is None else api_key)
 
     def extract_skills_from_text(self, text: str) -> ExtractedSkills:
         """
