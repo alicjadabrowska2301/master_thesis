@@ -1,0 +1,231 @@
+{
+  "technologies": [
+    {
+      "name": "MATLAB",
+      "category": "Computational Environment"
+    },
+    {
+      "name": "Python",
+      "category": "Programming Language"
+    },
+    {
+      "name": "SQL",
+      "category": "Database Language"
+    },
+    {
+      "name": "R",
+      "category": "Programming Language"
+    },
+    {
+      "name": "Microsoft Project",
+      "category": "Project Management Software"
+    },
+    {
+      "name": "Python libraries for data analysis",
+      "category": "Software"
+    },
+    {
+      "name": "Język angielski",
+      "category": "Language"
+    },
+    {
+      "name": "Język francuski",
+      "category": "Language"
+    },
+    {
+      "name": "Język hiszpański",
+      "category": "Language"
+    },
+    {
+      "name": "Język niemiecki",
+      "category": "Language"
+    },
+    {
+      "name": "Język japoński",
+      "category": "Language"
+    },
+    {
+      "name": "Język rosyjski",
+      "category": "Language"
+    },
+    {
+      "name": "Systemy normatywne z obszaru etyki",
+      "category": "Standards/Ethics"
+    },
+    {
+      "name": "Sztuczna inteligencja",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "name": "Metody i narzędzia symulacyjne",
+      "category": "Simulation Tools"
+    },
+    {
+      "name": "Metody projektowania innowacyjnego przedsiębiorstwa",
+      "category": "Innovation Methods"
+    },
+    {
+      "name": "Metody analizy danych",
+      "category": "Data Analysis"
+    },
+    {
+      "name": "Metody badawcze",
+      "category": "Research Methods"
+    },
+    {
+      "name": "Metody i techniki wspierające rozwiązywanie problemów biznesowych",
+      "category": "Problem Solving Techniques"
+    },
+    {
+      "name": "Metody i narzędzia analizy danych",
+      "category": "Data Analysis Tools"
+    },
+    {
+      "name": "Metody i narzędzia badawcze",
+      "category": "Research Tools"
+    },
+    {
+      "name": "Metody i narzędzia zarządzania projektami",
+      "category": "Project Management Tools"
+    },
+    {
+      "name": "Systemy informatyczne zarządzania",
+      "category": "Information Systems"
+    }
+  ],
+  "soft_skills": [
+    {
+      "name": "Analytical thinking",
+      "description": "Ability to analyze data, models, and complex systems to draw conclusions."
+    },
+    {
+      "name": "Critical assessment",
+      "description": "Evaluating the scope and level of knowledge independently and critically."
+    },
+    {
+      "name": "Creativity",
+      "description": "Problem solving with innovative and divergent thinking."
+    },
+    {
+      "name": "Team collaboration",
+      "description": "Working effectively with diverse, cross-disciplinary teams."
+    },
+    {
+      "name": "Communication skills",
+      "description": "Expressing ideas clearly both orally and in writing, including presentations."
+    },
+    {
+      "name": "Ethical judgment",
+      "description": "Applying professional and ethical standards in decision-making."
+    },
+    {
+      "name": "Leadership",
+      "description": "Managing teams, resolving conflicts, and motivating others."
+    },
+    {
+      "name": "Negotiation skills",
+      "description": "Persuading and reaching agreements to achieve goals."
+    },
+    {
+      "name": "Adaptability to ambiguity",
+      "description": "Handling uncertainty and change effectively."
+    },
+    {
+      "name": "Problem solving",
+      "description": "Identifying issues and developing effective solutions."
+    },
+    {
+      "name": "Project management",
+      "description": "Planning, organizing, and controlling projects using tools like MS Project."
+    },
+    {
+      "name": "Research skills",
+      "description": "Formulating hypotheses, literature review, and data analysis."
+    },
+    {
+      "name": "Intercultural communication",
+      "description": "Communicating effectively across different cultures and languages."
+    },
+    {
+      "name": "Self-improvement orientation",
+      "description": "Continuously developing skills and knowledge."
+    },
+    {
+      "name": "Responsibility and accountability",
+      "description": "Ensuring correctness and responsibility for results."
+    },
+    {
+      "name": "Decision-making models understanding",
+      "description": "Knowledge of game theory, stochastic, and robust optimization."
+    },
+    {
+      "name": "Data visualization and reporting",
+      "description": "Using tools to analyze and present data effectively."
+    },
+    {
+      "name": "Ethical use of AI and digital marketing",
+      "description": "Understanding and applying ethical principles in technology use."
+    },
+    {
+      "name": "Design thinking and innovation",
+      "description": "Applying human-centered approaches to solve problems creatively."
+    },
+    {
+      "name": "Mathematical modeling",
+      "description": "Constructing and solving models for decision support."
+    },
+    {
+      "name": "Cloud technology awareness",
+      "description": "Understanding cloud services and their applications in management."
+    },
+    {
+      "name": "Scientific research methods",
+      "description": "Conducting literature analysis, hypothesis testing, and research design."
+    },
+    {
+      "name": "Financial and management accounting",
+      "description": "Cost calculations, budgeting, and financial analysis."
+    },
+    {
+      "name": "Legal and regulatory knowledge",
+      "description": "Understanding laws related to business, technology, and ethics."
+    },
+    {
+      "name": "Cultural and social awareness",
+      "description": "Understanding norms, standards, and social mechanisms in organizations."
+    },
+    {
+      "name": "Leadership theories and models",
+      "description": "Knowledge of classical and modern leadership approaches."
+    },
+    {
+      "name": "Language proficiency in English and other languages",
+      "description": "Effective communication in academic and professional contexts."
+    },
+    {
+      "name": "Ethical conduct",
+      "description": "Przestrzeganie zasad etycznych, odpowiedzialność, transparentność."
+    },
+    {
+      "name": "Creativity and innovation",
+      "description": "Tworzenie innowacyjnych rozwiązań, kreatywne myślenie, projektowanie produktów."
+    },
+    {
+      "name": "Effective communication",
+      "description": "Prezentacja wyników, argumentacja, negocjacje, komunikacja międzykulturowa."
+    },
+    {
+      "name": "Critical thinking",
+      "description": "Analiza i ocena informacji, krytyczna interpretacja wyników badań."
+    },
+    {
+      "name": "Intercultural awareness",
+      "description": "Zrozumienie różnic kulturowych, adaptacja strategii komunikacji."
+    },
+    {
+      "name": "Self-development",
+      "description": "Planowanie rozwoju osobistego, uczenie się przez całe życie."
+    }
+  ],
+  "document_title": "Combined skills from 2 documents"
+}
