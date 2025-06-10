@@ -1,6 +1,3 @@
-Of course. Here is a README file for your project, including an explanation of the code flow, design choices, and diagrams to help you visualize the architecture.
-
----
 
 # Syllabus Skill Extractor
 
